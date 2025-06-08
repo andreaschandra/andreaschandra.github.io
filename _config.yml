@@ -110,7 +110,7 @@ author:
   name             : "Andreas Chandra"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a AI Engineer, working on LLM agents and optimizing inference."
-  location         : "Indonesia"
+  location         : 
   email            :
   links:
     - label: "Email"
