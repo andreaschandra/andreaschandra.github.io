@@ -224,8 +224,8 @@ figure {
   img {
     width: 100%;
     border-radius: $border-radius;
-    // -webkit-transition: $global-transition;
-    // transition: $global-transition;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
   }
 
   > a {
@@ -339,7 +339,6 @@ p,
 q,
 span,
 figure,
-img,
 h1,
 h2,
 header,
