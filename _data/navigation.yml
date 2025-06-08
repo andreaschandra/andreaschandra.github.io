@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://andreaschandra.github.io/
+    url: /about/
   - title: "Expertise"
     url: https://andreaschandra.github.io/
   - title: "Experience"

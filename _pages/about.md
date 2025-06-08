@@ -1,0 +1,22 @@
+---
+permalink: /about/
+title: "About Me"
+excerpt: "A brief intro about me."
+last_modified_at: 2025-06-08T11:25:00
+toc: true
+---
+
+## Introduction
+To Do
+
+## Work
+To Do
+
+## Career
+To Do
+
+## Education
+To Do
+
+## Leisure
+To Do
