@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Andreas Chandra"
-  avatar           : "/assets/images/andreas.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/favicon.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI Engineer based in Indonesia with 8 years of experience designing, developing, and deploying intelligence system at scale."
   location         : 
   email            :
