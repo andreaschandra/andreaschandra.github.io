@@ -6,7 +6,5 @@ main:
     url: /expertise/
   - title: "Experience"
     url: /experience/
-  - title: "Blog"
-    url: /blog/
   - title: "Contact"
     url: /contact/
