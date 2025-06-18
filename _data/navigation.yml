@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Expertise"
-    url: https://andreaschandra.github.io/
+    url: /expertise/
   - title: "Experience"
-    url: https://andreaschandra.github.io/
+    url: /experience/
   - title: "Blog"
-    url: https://andreaschandra.github.io/
+    url: /blog/
   - title: "Contact"
-    url: https://andreaschandra.github.io/
+    url: /contact/
