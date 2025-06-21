@@ -9,6 +9,6 @@ toc_sticky: true
 author_profile: true
 ---
 
-I don't share my email nor phone number to avoid spam.
-You can contact me via Linkedin or Discord.
-Just create an issue if it is a matter of open source project.
+I don't share my email nor phone number publicly to avoid spam.
+You can drop a message via Linkedin or Discord.
+Just create an issue if it is about the project that I host on Github.
