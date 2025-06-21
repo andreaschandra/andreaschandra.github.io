@@ -10,16 +10,17 @@ author_profile: true
 ---
 
 ## Introduction
-Hi there! I am currently working in waste recycling industry as an engineer focusing on computer vision, IoT, and inventory system.
-I born and raise in the sub-urb near the capital city which was surrounded by rice fields and coconut trees.
-I went to a university to studied computer science and from there my life is full with automation and artificial intelligence.
+Hi there! 
+It's AC, born and raised in the sub-urb near the capital city which was surrounded by rice fields and coconut trees.
+I studied computer science and work as an engineer in waste recycling industry, my research covers computer vision, LLM agents and inference efficiency.
+Some of my projects are publicly accesible via Github, technical blog on Medium, and host model weights on Huggingface.
 
 ## Work
 I enjoy doing analytics, modeling, and automation. I spent a lot of time for doing small project yet impactful such as question-answering model, optical character recognition.
 I created some scrapers and crawlers to collect goverment data around education to help others analyze and utilize the data. My pet project are mostly open-source which you can find it on my github. 
 
 ## Career
-I have been working for 8 years around data analysis, data science, and aritificial intelligence. I have an opportunity to work on multiple industries such as media, retail, fintech and banking. 
+For the last 8 years I have been working around data analysis, data science, and aritificial intelligence. I have an opportunity to work on multiple industries such as media, retail, fintech and banking. I led 10+ research engineer, scientist and fellow for AI community projects. 
 
 ## Education
 I went to collage in 2013 to studied computer science and graduated in 2017. I spent my time playing with web programming language, large databases and data mining. 
