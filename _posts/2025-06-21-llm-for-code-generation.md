@@ -5,7 +5,13 @@ categories:
   - research
 tags:
   - llm
+image:
+  feature: codegeneration.png
+  thumb: codegeneration.png
 ---
+
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/codegeneration.png)
+
 
 Large Language Models (LLMs) have gained a remarkable achievement across diverse general tasks and programming tasks. LLMs role in code generation covers from the simplest form such as code completion to code generation from natural language. This post provides a brief introduction and resources needed to train or fine-tune LLMs to be able to generate code from base model.
 
