@@ -39,7 +39,7 @@ Despite the abundance of training resources, it may refers to the same sources o
 
 - Github Code consists of 115M code files from GitHub in 32 programming languages with 60 extensions totaling in 1TB of data. The dataset was created from the public GitHub dataset on Google BiqQuery. [HF Dataset](https://huggingface.co/datasets/codeparrot/github-code)
 
-- ROOTS contains a 1.6TB dataset with 59 natural languages nad 13 programming languages that was used to train BLOOM model. The dataset contains free text and code bases. [Paper](https://arxiv.org/pdf/2303.03915)[HF Dataset](https://huggingface.co/bigscience-data/datasets)
+- ROOTS contains a 1.6TB dataset with 59 natural languages nad 13 programming languages that was used to train BLOOM model. The dataset contains free text and code bases. [Paper](https://arxiv.org/pdf/2303.03915) [HF Dataset](https://huggingface.co/bigscience-data/datasets)
 
 - The Stack is a 6.4 TB comprehensive collection of open-source code files from 358 programming languages, developed by the BigCode Project to train AI models that generate code. These Code LLMs can create programs based on natural language instructions or modify existing code snippets. [HF Dataset](https://huggingface.co/datasets/bigcode/the-stack)
 
