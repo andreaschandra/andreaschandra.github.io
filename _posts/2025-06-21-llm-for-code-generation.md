@@ -14,7 +14,7 @@ image:
 
 
 Large Language Models (LLMs) have gained a remarkable achievement across diverse general tasks and programming tasks. LLMs role in code generation covers from the simplest form such as code completion to code generation from natural language. This post provides a brief introduction and resources needed to train or fine-tune LLMs to be able to generate code from base model.
-
+<!--more-->
 ## Tasks
 
 There are 7 code generation tasks that LLMs are capable of:
