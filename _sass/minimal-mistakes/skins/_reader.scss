@@ -1,0 +1,29 @@
+/* ==========================================================================
+   Reader skin
+   Neutral, high-contrast palette for long technical posts.
+   Light mode only.
+   ========================================================================== */
+
+/* Colors */
+$background-color: #fafaf7 !default;   // off-white page
+$text-color: #24292f !default;         // near-black body text (14:1 on bg)
+$primary-color: #0b57d0 !default;      // accent: buttons, active nav, quote bar
+$gray: #59636e !default;               // secondary text: meta, captions
+$dark-gray: #24292f !default;
+$darker-gray: #1f2328 !default;
+$light-gray: #afb8c1 !default;
+$lighter-gray: #eaeef2 !default;
+$border-color: #e4e4df !default;
+$code-background-color: #efefeb !default;      // inline code
+$code-background-color-dark: #d8dee4 !default;
+$footer-background-color: #f2f2ee !default;
+
+/* Links (6.1:1 on bg, passes WCAG AA) */
+$link-color: #0b57d0 !default;
+$link-color-hover: #0842a0 !default;
+$link-color-visited: #1a3a7a !default;  // navy (10.4:1 on bg)
+
+/* Masthead */
+$masthead-link-color: #24292f !default;
+$masthead-link-color-hover: #0b57d0 !default;
+$navicon-link-color-hover: #dbe6fb !default;
